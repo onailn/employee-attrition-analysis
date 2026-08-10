@@ -21,10 +21,11 @@ This project uses SQL and Power BI to analyze employee attrition.
 Sales Representatives had the highest attrition rate at **39.76%**.
 
 ## Files
-
+- [Data](https://github.com/onailn/employee-attrition-analysis/tree/main/data)
 - [SQL Queries](https://github.com/onailn/employee-attrition-analysis/tree/main/SQL)
-- [Output](https://github.com/onailn/employee-attrition-analysis/tree/main/output)
+- [SQL Output](https://github.com/onailn/employee-attrition-analysis/tree/main/output)
 - [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYyYWMzYjAtYzIyMS00ZDYxLTg1YmQtMzcwMmZhZmUyMmUzIiwidCI6IjhhNWI2ZmQyLWY1MGQtNDU2NS05MTBhLTFmZmU2NDU0ZTM2OCIsImMiOjZ9)
+
 
 ## Dashboard
 
