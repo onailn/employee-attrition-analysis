@@ -18,7 +18,9 @@ This project uses SQL and Power BI to analyze employee attrition.
 
 ## Key Finding
 
-Sales Representatives had the highest attrition rate at **39.76%**.
+Sales Representatives had the highest job-role attrition rate at 39.76%.
+Employees with 0–2 years of tenure had a 29.8% attrition rate.
+Employees working overtime with low job satisfaction had the highest segment attrition rate at about 36.6%.
 
 ## Files
 - [Data](https://github.com/onailn/employee-attrition-analysis/tree/main/data)
