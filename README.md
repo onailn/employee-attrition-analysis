@@ -26,12 +26,12 @@ This project uses PostgreSQL, SQL, and Power BI to analyze employee attrition, a
 - [Data](https://github.com/onailn/employee-attrition-analysis/tree/main/data)
 - [SQL Queries](https://github.com/onailn/employee-attrition-analysis/tree/main/SQL)
 - [SQL Output](https://github.com/onailn/employee-attrition-analysis/tree/main/output)
-- [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYyYWMzYjAtYzIyMS00ZDYxLTg1YmQtMzcwMmZhZmUyMmUzIiwidCI6IjhhNWI2ZmQyLWY1MGQtNDU2NS05MTBhLTFmZmU2NDU0ZTM2OCIsImMiOjZ9)
+
 
 
 ## Dashboard
 
-![Dashboard](images/dashboard_overview.png)
+- [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYyYWMzYjAtYzIyMS00ZDYxLTg1YmQtMzcwMmZhZmUyMmUzIiwidCI6IjhhNWI2ZmQyLWY1MGQtNDU2NS05MTBhLTFmZmU2NDU0ZTM2OCIsImMiOjZ9)
 
 ## Note
 
