@@ -24,7 +24,7 @@ Sales Representatives had the highest attrition rate at **39.76%**.
 
 - [SQL Queries](https://github.com/onailn/employee-attrition-analysis/tree/main/SQL)
 - [Output](https://github.com/onailn/employee-attrition-analysis/tree/main/output)
-- [Power BI Dashboard](Employee Attrition & Retention Analysis.pbix)
+- [Power BI Dashboard](https://github.com/onailn/employee-attrition-analysis/blob/main/Employee%20Attrition%20%26%20Retention%20Analysis.pbix)
 
 ## Dashboard
 
