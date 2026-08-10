@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project uses SQL and Power BI to analyze employee attrition.
+This project uses PostgreSQL, SQL, and Power BI to analyze employee attrition, answer three business questions, and identify workforce groups with higher turnover risk.
 
 ## Questions
 
@@ -16,13 +16,13 @@ This project uses SQL and Power BI to analyze employee attrition.
 - SQL
 - Power BI
 
-## Key Finding
+## Key Findings
 
 - Sales Representatives had the highest job-role attrition rate at 39.76%.
 - Employees with 0–2 years of tenure had a 29.8% attrition rate.
 - Employees working overtime with low job satisfaction had the highest segment attrition rate at about 36.6%.
 
-## Files
+## Project Files
 - [Data](https://github.com/onailn/employee-attrition-analysis/tree/main/data)
 - [SQL Queries](https://github.com/onailn/employee-attrition-analysis/tree/main/SQL)
 - [SQL Output](https://github.com/onailn/employee-attrition-analysis/tree/main/output)
